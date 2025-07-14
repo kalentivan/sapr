@@ -1,0 +1,24 @@
+# CAD / 3D
+
+
+# SVG / обработка графики
+
+
+# Web & API
+
+# Django
+
+
+# PDF / DOCX
+
+
+# Прочее
+
+
+# linux
+
+
+# monitoring
+
+
+

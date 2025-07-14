@@ -1,0 +1,10 @@
+---
+services:
+  back:
+  db:
+  redis:
+  pgbouncer:
+  monitor:  
+
+networks:
+  
